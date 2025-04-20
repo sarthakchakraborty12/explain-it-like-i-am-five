@@ -766,5 +766,5 @@ This project is protected under the Mozilla Public License 2.0 ([https://www.moz
 - We used Figma AI Image Generator feature to generate the image
 - We used Firebase Studio (https://firebase.studio) and VSCode (https://code.visualstudio.com/) as IDE
 - The AI Spark animation is downloaded from LottieFiles (https://lottiefiles.com/)
-
+- The AI Spark icon is downloaded from icons8 (https://icons8.com/)
 ---
