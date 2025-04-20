@@ -97,7 +97,7 @@ export default function LandingPage() {
               {/* Team Member 1 */}
               <div className="flex flex-col items-center">
                 <Avatar className="h-24 w-24">
-                  <AvatarImage src="https://previews.dropbox.com/p/thumb/ACmSnTzU9IezFgGTswvQAd8U1qJTSEQc9MleC-96BLhxnw-P4UsKPW25VpavqiSRUiLj1pXBjB1XG4EdB6kHpmE3vsbQRGuGHPc12aBcMVVzAhrJEMsy7-qq1VqhmYWVGAxnWtwQCo8c6vHYXpaMp9l3RS-iDHCYi7szGB1STKmrp5hkCeti4EfSBEhQi68xJzWLI4LwCofQBvOdlVFSyGwd94LPCe9Y7DeaYkOBgryMZ7LIJCMRcyO3G0RDjC86-XyBYCUY7Tosnosf1wx4DjLEHvwsAQiSo2sa70bp3dClYjkVTdM7O7eqhgA_nMloEcWemQuM71hCrAwmYohVEGFV/p.jpeg?is_prewarmed=true" alt="Sarthak Chakraborty" />
+                  <AvatarImage src="https://www.dropbox.com/scl/fi/di5z582mi6og2sgryva07/sarthakc.jpeg?rlkey=qnsx0dehg94c1lsh8iqgfdf31&st=bj5ewtjq&dl=1" alt="Sarthak Chakraborty" />
                   <AvatarFallback>SC</AvatarFallback>
                 </Avatar>
                 <p className="font-semibold mt-2">Sarthak Chakraborty</p>
@@ -109,7 +109,7 @@ export default function LandingPage() {
               {/* Team Member 2 */}
               <div className="flex flex-col items-center">
                 <Avatar className="h-24 w-24">
-                  <AvatarImage src="https://previews.dropbox.com/p/thumb/ACm5GV4g38QgHF2d01ywmnJ55UsyWE_yzGSqZVOXSHZWhr75_HaYO8rRngBDrSCTCefOy9JjciBOsQf9BJ_U_hu2E9z5lBThCxZstpq15QCkbz1IWBkhmqe-t5kOuFlBX7ZxvXdAr5_vwDPs3sEVP3GKPNcC1Df10rYGwkKwlZwW4NN5IFzJS_vZOFlEfNG4KpTEpz1gocp4pbHSWsfE4pcaWolEmBSh5u6QRIB1uN9eLI7DZ-5m570jfL38rrhzs1bl2me5ju0oKoIfTnrMHPC7fjaIWvuZTHPx0QoFpiyfy3ym8mvkuwFT1RV7RJCgZUk/p.jpeg" alt="Parag Chowdhury" />
+                  <AvatarImage src="https://www.dropbox.com/scl/fi/rfgrhjobiwa1eykle9zvk/PARAG.jpg?rlkey=g9jfcxphg8cnlv4niacvq3gzt&st=5cdb3sjn&dl=1" alt="Parag Chowdhury" />
                   <AvatarFallback>PC</AvatarFallback>
                 </Avatar>
                 <p className="font-semibold mt-2">Parag Chowdhury</p>
@@ -121,7 +121,7 @@ export default function LandingPage() {
               {/* Team Member 3 */}
               <div className="flex flex-col items-center">
                 <Avatar className="h-24 w-24">
-                  <AvatarImage src="https://previews.dropbox.com/p/thumb/ACm1vqL6TGaWV2XftGHk--wtTKZ_UL0alxhm5FF2Ws_ny8s6Zl_Uqi7FsT3a_auFaHIt06HzIj1R_seDelLCWLrMfdyXyCxmxpi975kZGzlAM9OSWQEWAZ3-6Ia-kHUC3DnXws_tNLIkVQmWyY2fK8QaezNU_--dMSxqSpiFMYLgZlcRr8HjZV2f2B8HxbMzDbeU4XNb_OZRV2Keo1tICqQ71V34ftn-kGNiy8zaYKx4laN51LGj3snA4NQbhYUUQyRF58CRqDwdZwynSdgjpZL8Ccs4G8Bxqj1ZchZwIVvebV5i-hnDIrtUGq9U_3dUQmE/p.jpeg" alt="Parambrata Maitra" />
+                  <AvatarImage src="https://www.dropbox.com/scl/fi/yvbooogelslsxwruuh638/param.jpg?rlkey=c1ndqv1mgjb75qdkphzh8sky9&st=4p4bcvig&dl=1" alt="Parambrata Maitra" />
                   <AvatarFallback>PM</AvatarFallback>
                 </Avatar>
                 <p className="font-semibold mt-2">Parambrata Maitra</p>
