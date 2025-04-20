@@ -755,7 +755,7 @@ Run the test suite using the following command:
 
 ## 🎗 License
 
-This project is protected under the Mozilla Public License 2.0 ([https://choosealicense.com/licenses](https://www.mozilla.org/en-US/MPL/2.0/)) License. For more details, refer to the **license.md** file.
+This project is protected under the Mozilla Public License 2.0 ([https://choosealicense.com/licenses](https://www.mozilla.org/en-US/MPL/2.0/)) License. For more details, refer to the **license** file.
 
 ---
 
