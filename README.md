@@ -745,9 +745,9 @@ Run the test suite using the following command:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-  • Sarthak Chakraborty (https://github.com/sarthakchakraborty12)
-  • Parag Chowdhury (https://github.com/ParagC0457)
-  • Parambrata Maitra (https://github.com/prambratamaitra)
+  • Sarthak Chakraborty (https://github.com/sarthakchakraborty12) <br>
+  • Parag Chowdhury (https://github.com/ParagC0457) <br>
+  • Parambrata Maitra (https://github.com/prambratamaitra) <br>
 </p>
 </details>
 
