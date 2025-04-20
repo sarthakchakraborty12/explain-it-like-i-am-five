@@ -745,9 +745,9 @@ Run the test suite using the following command:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com{/sarthakchakraborty12/explain-it-like-i-am-five/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=sarthakchakraborty12/explain-it-like-i-am-five">
-   </a>
+  • Sarthak Chakraborty (https://github.com/sarthakchakraborty12)
+  • Parag Chowdhury (https://github.com/ParagC0457)
+  • Parambrata Maitra (https://github.com/prambratamaitra)
 </p>
 </details>
 
