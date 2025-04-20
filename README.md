@@ -635,7 +635,7 @@ Yes, you heard that right! There is a website that can explain your code and the
 
 Before getting started with explain-it-like-i-am-five, ensure your runtime environment meets the following requirements:
 
-- **Programming Language & Tech Stack :**  TypeScript, React, CSS, JSON, NodeJS
+- **Programming Language & Tech Stack :**  TypeScript, React, CSS, JSON, NodeJS, Webpack
 - **Package Manager:** Npm
 
 
