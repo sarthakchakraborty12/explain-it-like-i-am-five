@@ -742,7 +742,7 @@ Run the test suite using the following command:
 </details>
 
 <details closed>
-<summary>Contributor Graph</summary>
+<summary>Makers Behind This Project : </summary>
 <br>
 <p align="left">
   • Sarthak Chakraborty (https://github.com/sarthakchakraborty12) <br>
